@@ -1,0 +1,2 @@
+# project
+geekBrains studying git
